@@ -1,1 +1,1 @@
-# linux-serialport-programming-using-c-termios-api
+# Linux Serial Port Programming Tutorial using C Language and termios API
