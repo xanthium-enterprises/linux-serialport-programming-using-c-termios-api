@@ -10,5 +10,9 @@
 -  Code is written in **Pure C** language and compiled using **GCC**.
 
 ## Online Tutorial
-A detailed writeup of the Linux serial Port Programming tutorial can be found using the below link
-[Linux serial Port Programming tutorial for tha Absolute Beginner](https://www.xanthium.in/native-serial-port-communication-arduino-micro-linux-unix-bsd-system-c-lang-terminos-api)
+A detailed writeup of the Linux serial Port Programming tutorial can be found using the below link 
+- [Linux Serial Port Programming tutorial for tha Absolute Beginner](https://www.xanthium.in/native-serial-port-communication-arduino-micro-linux-unix-bsd-system-c-lang-terminos-api)
+
+## Hardware Connections
+## Compiling the Code.
+## Screen shots
