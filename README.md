@@ -16,7 +16,9 @@
 A detailed writeup of the Linux serial Port Programming tutorial can be found using the below link 
 - [Linux Serial Port Programming tutorial for the Absolute Beginner](https://www.xanthium.in/native-serial-port-communication-arduino-micro-linux-unix-bsd-system-c-lang-terminos-api)
 - 
+![reading data from serialport using read() system call on linux](docs/arduino-linux-pc-serial-communication-c-language.jpg)
 
+![writing data to serialport using write() system call on linux](docs/write-to-linux-serial-port-in-c.jpg)
   
 
 
